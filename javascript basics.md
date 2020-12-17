@@ -1,6 +1,6 @@
 # Topics:
 
-## variables (declaration and initialization) \
+## variables (declaration and initialization) 
 ## var, let, const \
 ## variable scope \
 ## hoisting \
