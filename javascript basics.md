@@ -13,7 +13,7 @@
 
 
 ## camelCase
-## arithmetic operators
-## conditionals statements
-## iterations 
+## arithmetic operators ( + - * / % )
+## conditionals statements (if, if else, if elseif else, switch)
+## iterations/loops (for, for of, for in, while, do while )
 ## functions (parameters and arguments, return keyword) 
