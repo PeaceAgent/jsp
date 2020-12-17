@@ -1,0 +1,5 @@
+//normal functions
+
+
+
+//arrow functions
